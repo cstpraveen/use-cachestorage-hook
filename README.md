@@ -4,7 +4,7 @@ A React hook to easily manage local storage.
 
 ## Demo
 
-[CodeSandbox Demo](https://codesandbox.io/p/sandbox/9srdvq)
+[CodeSandbox Demo](https://codesandbox.io/p/sandbox/rf7l3v)
 
 ## Installation
 
